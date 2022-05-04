@@ -31,3 +31,10 @@ test/integration/*.xml
 dep-build/
 stats.csv
 junit.xml
+
+
+# Jetbrains IDE projects
+**/.idea/**
+
+# CMake build files
+**/cmake-build-*/**
